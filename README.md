@@ -30,3 +30,7 @@
 * [Bishop - Pattern Recognition And Machine Learning](https://github.com/mayank1101/Pattern-Recognition-and-Machine-Learning-PRML-/tree/master/class)
 * **NPTEL Video Lectures for Reference**
 * [Computer Science - Pattern Recognition by CA Murthy](https://www.youtube.com/watch?v=mfePdDh9t6Q&list=PLbMVogVj5nJQJMLb2CYw9rry0d5s0TQRp)
+
+
+* **For Lab Practical please refer Lab directory**
+* [Lab Directory](https://github.com/mayank1101/Pattern-Recognition-and-Machine-Learning-PRML-/tree/master/lab)
